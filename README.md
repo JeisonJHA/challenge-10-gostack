@@ -7,7 +7,19 @@
 <blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jeisonjha/challenge-10-gostack?color=%FF9000">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeisonjha/challenge-10-gostack?color=%235636D3">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jeisonjha/challenge-10-gostack?color=%2304D361">
+
+  <a href="https://github.com/jeisonjha/challenge-10-gostack/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeisonjha/challenge-10-gostack?color=%235636D3">
+  </a>
+
+  <a href="https://www.linkedin.com/in/jeison.azevedo/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Jeison%20Azevedo-orange">
+  </a>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
@@ -16,13 +28,12 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/jeisonjha/challenge-10-gostack?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
